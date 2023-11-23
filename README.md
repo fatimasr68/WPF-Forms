@@ -30,6 +30,11 @@ The following technologies are used in this project:
 
   <table style="padding: 0; border=0;">
 
+  <tr style="padding: 10; border=0;">
+    <td valign="top"><img src="Chart/area_chart.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
+    <td valign="top"><img src="Chart/donute_chart.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
+  </tr>
+
    <tr>
     <td valign="top"><img src="Chart/group_bar_chart.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
     <td valign="top"><img src="Chart/bar_line-chart.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
@@ -38,11 +43,6 @@ The following technologies are used in this project:
   <tr>
     <td valign="top"><img src="Chart/bar_chart.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
     <td valign="top"><img src="Chart/vertical_bar_chart.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
-  </tr>
-
-  <tr style="padding: 10; border=0;">
-    <td valign="top"><img src="Chart/area_chart.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
-    <td valign="top"><img src="Chart/donute_chart.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
   </tr>
   
   <tr>    
