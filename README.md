@@ -1,7 +1,7 @@
 # WPF-Forms
 
 ## Technologies Used
-The following technologies are used in this React website: 
+The following technologies are used in this project: 
 * [WPF](https://github.com/dotnet/wpf)
 
 
@@ -9,7 +9,7 @@ The following technologies are used in this React website:
  ## Features 
 This forms includes the following features: 
 * Responsive design that works on all devices (desktop, tablet, mobile) 
-* Customizable forms
+* Customizable charts
 
 
 ## Chart Images
