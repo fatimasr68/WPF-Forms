@@ -9,8 +9,8 @@
   
   
   <tr>
-    <td valign="top"><img src="photo_۲۰۲۳-۱۱-۱۸_۱۲-۳۸-۰۲.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
-    <td valign="top"><img src="photo_۲۰۲۳-۱۱-۱۸_۱۲-۳۸-۰۳.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
+    <td valign="top"><img src="photo_۲۰۲۳-۱۱-۱۸_۱۲-۳۸-۰۲.jpg" title="Design"  style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
+    <td valign="top"><img src="photo_۲۰۲۳-۱۱-۱۸_۱۲-۳۸-۰۳.jpg" title="Design" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
   </tr>
   
   
