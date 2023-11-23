@@ -1,9 +1,13 @@
 ## Form Images
 
   <table style="padding: 0; border=0;">
+
+  <tr>
+    <td valign="top"><img src="window1.jpg" title="Design" style="margin: 0 auto;"></td>
+  </tr>
   
   <tr>
-    <td valign="top"><img src="graph_properties_chart.jpg" title="Design" style="margin: 0 auto;"></td>
+    <td valign="top"><img src="window2.jpg" title="Design" style="margin: 0 auto;"></td>
   </tr>
   
   <tr>
