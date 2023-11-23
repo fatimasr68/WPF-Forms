@@ -16,11 +16,12 @@
   
   <tr>    
       <td valign="top"><img src="photo_۲۰۲۳-۱۱-۱۸_۱۲-۳۸-۰۷.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
-      <td valign="top"><img src="photo_۲۰۲۳-۱۱-۱۸_۱۲-۳۸-۰۸.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
+      <td valign="top"><img src="photo_۲۰۲۳-۱۱-۱۸_۱۲-۳۹-۲۶.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
   </tr>
 
    <tr>    
-      <td valign="top" colspan="2"><img src="photo_۲۰۲۳-۱۱-۱۸_۱۲-۳۸-۱۰.jpg" title="Design" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
+      <td valign="top"><img src="photo_۲۰۲۳-۱۱-۱۸_۱۲-۳۸-۱۰.jpg" title="Design" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
+           <td valign="top"><img src="photo_۲۰۲۳-۱۱-۱۸_۱۲-۳۸-۱۰.jpg" title="Design" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
   </tr>
 
    <tr>    
