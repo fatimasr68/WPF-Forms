@@ -1,12 +1,6 @@
 # WPF-Forms
 This is a WPF project that includes customized charts and designed forms.
 
-## Technologies Used
-The following technologies are used in this project: 
-* [WPF](https://github.com/dotnet/wpf)
-* [XAML](https://github.com/microsoft/microsoft-ui-xaml)
-* [C#.NET](https://github.com/topics/csharp)
-* [Telerik UI for WPF](https://github.com/telerik/xaml-docs)
 
 ## Description
 
@@ -22,6 +16,15 @@ This project is a WPF application that showcases customized charts and designed 
 - Designed forms for data input and display
 
 
+
+## Technologies Used
+The following technologies are used in this project: 
+* [WPF](https://github.com/dotnet/wpf)
+* [XAML](https://github.com/microsoft/microsoft-ui-xaml)
+* [C#.NET](https://github.com/topics/csharp)
+* [Telerik UI for WPF](https://github.com/telerik/xaml-docs)
+
+  
 
 ## Chart Images
 
