@@ -8,8 +8,13 @@
   
   
   <tr>
-    <td valign="top"><img src="ASCII_Log_View.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
-    <td valign="top"><img src="ASCII_Log_View2.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
+    <td valign="top"><img src="ASCII_Log_View.jpg" title="Design" style="display: inline-block; margin: 0 auto;                         vertical-align:top;">
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top"><img src="ASCII_Log_View2.jpg" title="Design" style="display: inline-block; margin: 0 auto;                       vertical-align:top;">
+    </td>
   </tr>
   
   
