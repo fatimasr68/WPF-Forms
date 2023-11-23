@@ -2,7 +2,7 @@
 
 ## Technologies Used
 The following technologies are used in this React website: 
-* [WPF](https://github.com/axios/axios)
+* [WPF](https://github.com/wpf)
 
 
 
@@ -30,7 +30,7 @@ This forms includes the following features:
   
   <tr>    
       <td valign="top"><img src="Forms/window1.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
-      <td valign="top"><img src="Forms/window1.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
+      <td valign="top"><img src="Forms/window2.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
   </tr>
  </table>
 
