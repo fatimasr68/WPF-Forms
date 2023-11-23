@@ -2,8 +2,8 @@
 
   <table style="padding: 0; border=0;">
   <tr style="padding: 10; border=0;">
-    <td valign="top"><img src="Forms/graph_properties_chart.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
-    <td valign="top"><img src="Forms/graph_properties_printt.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
+    <td valign="top"><img src="graph_properties_chart.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
+    <td valign="top"><img src="graph_properties_printt.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
   </tr>
   
   
