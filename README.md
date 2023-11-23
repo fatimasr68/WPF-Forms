@@ -12,6 +12,34 @@ This forms includes the following features:
 * Customizable forms
 
 
+## Chart Images
+
+  <table style="padding: 0; border=0;">
+   
+  <tr style="padding: 10; border=0;">
+    <td valign="top"><img src="chart/area_chart.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
+    <td valign="top"><img src="chart/bubble_chart.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
+  </tr>
+
+    <tr>    
+      <td valign="top"><img src="chart/bar_line-chart.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
+      <td valign="top"><img src="chart/group_bar_chart.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
+  </tr>
+  
+  <tr>
+    <td valign="top"><img src="chart/bar_chart.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
+    <td valign="top"><img src="chart/vertical_bar_chart.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
+  </tr>
+  
+  
+  <tr>    
+      <td valign="top"><img src="chart/spline-chart.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
+      <td valign="top"><img src="chart/line_chart.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
+  </tr>
+
+ </table>
+
+
 
 ## Form Images
 
