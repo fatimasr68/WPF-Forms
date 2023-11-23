@@ -10,14 +10,15 @@ The following technologies are used in this project:
 
 ## Description
 
-This project is a WPF application that showcases customized charts and designed forms. It includes various types of charts such as bar charts, pie charts, and line charts, all of which have been customized to fit the specific needs of the project. Additionally, the forms within the application have been carefully designed and implemented to provide a seamless user experience.
+This project is a WPF application that showcases customized charts and designed forms. It includes various types of charts such as bar charts, pie charts, line charts, area charts and scatter charts all of which have been customized to fit the specific needs of the project. Additionally, the forms within the application have been carefully designed and implemented to provide a seamless user experience.
 
 ## Features
 
 - Responsive design that works on all devices (desktop, tablet, mobile)
 - Customized bar charts
-- Customized pie charts
+- Customized scatter charts
 - Customized line charts
+- Customized pie charts
 - Designed forms for data input and display
 
 
