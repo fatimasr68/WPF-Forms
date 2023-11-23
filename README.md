@@ -34,7 +34,7 @@ This forms includes the following features:
   </tr>
 
    <tr>    
-      <td valign="top" colspan="2"><img src="Forms/history_monitor.jpg" title="Design" width="500" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
+      <td valign="top" colspan="2"><img src="Forms/history_monitor.jpg" title="Design" style="display: inline-block; margin: 0 auto; vertical-align:top;"></td>
   </tr>
 
    <tr>    
