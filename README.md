@@ -1,15 +1,22 @@
 # WPF-Forms
+This is a WPF project that includes customized charts and designed forms.
 
 ## Technologies Used
 The following technologies are used in this project: 
 * [WPF](https://github.com/dotnet/wpf)
 
+## Description
 
+This project is a WPF application that showcases customized charts and designed forms. It includes various types of charts such as bar charts, pie charts, and line charts, all of which have been customized to fit the specific needs of the project. Additionally, the forms within the application have been carefully designed and implemented to provide a seamless user experience.
 
- ## Features 
-This forms includes the following features: 
-* Responsive design that works on all devices (desktop, tablet, mobile) 
-* Customizable charts
+## Features
+
+- Responsive design that works on all devices (desktop, tablet, mobile)
+- Customized bar charts
+- Customized pie charts
+- Customized line charts
+- Designed forms for data input and display
+
 
 
 ## Chart Images
@@ -78,3 +85,9 @@ This forms includes the following features:
 
  ## Conclusion  
 This project is built using modern technologies to provide a user-friendly experience across all devices. It includes features such as responsive design, easy navigation, customizable charts
+
+## Contact
+
+If you have any questions or suggestions about this project, please feel free to contact us at [fatima.sr68@gmail.com](mailto:fatima.sr68@gmail.com).
+
+Thank you for checking out our WPF project! We hope you find it useful.
