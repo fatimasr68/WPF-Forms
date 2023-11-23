@@ -35,11 +35,19 @@
   </tr>
 
   <tr>
+    <td valign="top"><img src="simulation_window.jpg" title="Design" style="margin: 0 auto;"></td>
+  </tr>
+
+  <tr>
+    <td valign="top"><img src="graph_properties_chart.jpg" title="Design" style="margin: 0 auto;"></td>
+  </tr>
+
+  <tr>
     <td valign="top"><img src="graph_properties_printt.jpg" title="Design" style="margin: 0 auto;"></td>
   </tr>
 
   <tr>
-    <td valign="top"><img src="simulation_window.jpg" title="Design" style="margin: 0 auto;"></td>
+    <td valign="top"><img src="data_item_selection.jpg" title="Design" style="margin: 0 auto;"></td>
   </tr>
  
  </table>
