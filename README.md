@@ -9,11 +9,11 @@ This project is a WPF application that showcases customized charts and designed 
 ## Features
 
 - Responsive design that works on all devices (desktop, tablet, mobile)
+- Designed forms for data input and display
 - Customized bar charts
 - Customized scatter charts
 - Customized line charts
 - Customized pie charts
-- Designed forms for data input and display
 
 
 
