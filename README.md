@@ -4,6 +4,9 @@ This is a WPF project that includes customized charts and designed forms.
 ## Technologies Used
 The following technologies are used in this project: 
 * [WPF](https://github.com/dotnet/wpf)
+* [XAML](https://github.com/dotnet/xaml)
+* [C#.NET](https://github.com/dotnet/c#)
+* [Telerik](https://github.com/telerik)
 
 ## Description
 
